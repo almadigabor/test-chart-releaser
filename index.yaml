@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  chart-1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-12T08:51:41.836463189Z"
+    description: A Helm chart for Kubernetes
+    digest: 93f3aeaaa58774c630198aa8112d2bb0710886fd33633c84dfdc081c645cdbfb
+    name: chart-1
+    type: application
+    urls:
+    - https://github.com/almadigabor/test-chart-releaser/releases/download/chart-1-0.1.2/chart-1-0.1.2.tgz
+    version: 0.1.2
+  chart-2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-12T08:51:42.054310399Z"
+    description: A Helm chart for Kubernetes
+    digest: 0f1095e80ea1d58ce7ca49088680dc9b2e25074bf6f7614b799a2d472c976baa
+    name: chart-2
+    type: application
+    urls:
+    - https://github.com/almadigabor/test-chart-releaser/releases/download/chart-2-0.1.2/chart-2-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-07-12T08:51:42.054727205Z"
